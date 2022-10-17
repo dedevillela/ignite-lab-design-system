@@ -6,11 +6,11 @@
 
 A simple Design System project with React components and Storybook[^sb] for documentation.
 
-- [Figma Layout](https://www.figma.com/file/KdO1qbMcFGJdyhRUMh1W2t/Ignite-Lab-Design-System?node-id=1%3A2)
+- 🔖 [Figma Layout](https://www.figma.com/file/KdO1qbMcFGJdyhRUMh1W2t/Ignite-Lab-Design-System?node-id=1%3A2)
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 - From your terminal, clone the repository into your local machine, chage your current folder to the project folder you just created, and install the dependencies.
 
@@ -30,7 +30,7 @@ npm run storybook
 
 - To document your component in **Storybook**, add a file matching the component name and use the extension **.stories.tsx**.
 
-## License
+## :memo: License
 
 - [MIT License](LICENSE)
 
