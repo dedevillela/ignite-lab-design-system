@@ -2,7 +2,7 @@
 
 # Ignite Lab - Design System
 
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/axios?logo=axios) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/clsx) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/phosphor-react) [![view @latest storybook][sb-badge]][sb-link] ![GitHub](https://img.shields.io/github/license/dedevillela/ignite-lab-design-system)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/axios?logo=axios) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/clsx) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/phosphor-react) [![view @latest storybook][sb-badge]][sb-link] [![GitHub Lisense][gh-license-badge]][gh-license-link]
 
 > A simple Design System project with React components using **Tailwind CSS**[^tailwindcss], **TypeScript**[^types] and **Storybook**[^storybook] for documentation.
 
@@ -43,3 +43,7 @@ npm run storybook
 [sb-link]: https://dedevillela.github.io/ignite-lab-design-system/
 
 [sb-badge]: https://img.shields.io/badge/view%20%40latest-storybook-ff4785
+
+[gh-license-link]: ./CONTRIBUTING.md
+
+[gh-license-badge]: https://img.shields.io/github/license/dedevillela/ignite-lab-design-system
