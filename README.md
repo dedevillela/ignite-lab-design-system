@@ -20,13 +20,21 @@ cd ignite-lab-design-system && \
 npm install
 ```
 
+- Start the development server.
+
+```sh
+npm run dev
+```
+
+- Add a new component or edit the existing ones inside the **src/components** folder.
+
+## 📃 Documenting
+
 - Start the Storybook server.
 
 ```sh
 npm run storybook
 ```
-
-- Add a new component or edit the existing ones inside the **src/components** folder.
 
 - To document your component in Storybook, add a file matching the component name and use the extension `.stories.tsx`.
 
