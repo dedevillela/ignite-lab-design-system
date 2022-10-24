@@ -6,7 +6,7 @@
 
 > A simple Design System project with React components using **Tailwind CSS**[^tailwindcss], **TypeScript**[^types] and **Storybook**[^storybook] for documentation.
 
-- 🔖 [Figma Layout](https://www.figma.com/file/KdO1qbMcFGJdyhRUMh1W2t/Ignite-Lab-Design-System?node-id=1%3A2)
+- 🔖 [Layout (Figma)](https://www.figma.com/file/KdO1qbMcFGJdyhRUMh1W2t/Ignite-Lab-Design-System?node-id=1%3A2)
 
 - 💻 [Live Project (Vercel)](https://ignite-lab-design-system-weld.vercel.app/)
 
