@@ -1,6 +1,6 @@
 # Ignite Lab - Design System
 
-![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/axios?logo=axios) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/clsx) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/phosphor-react) [![view @latest storybook][sb-badge]][sb-link] [![GitHub release](https://img.shields.io/github/release/dedevillela/ignite-lab-design-system.svg)](https://github.com/dedevillela/ignite-lab-design-system/releases) [![GitHub Lisense][gh-license-badge]][gh-license-link]
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/react?logo=react) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/axios?logo=axios) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/clsx) ![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/dedevillela/ignite-lab-design-system/phosphor-react) [![view @latest storybook][sb-badge]][sb-link] [![GitHub release](https://img.shields.io/github/release/dedevillela/ignite-lab-design-system.svg)](https://github.com/dedevillela/ignite-lab-design-system/releases) [![PRs welcome][pr-badge]][pr-link] [![GitHub Lisense][gh-license-badge]][gh-license-link]
 
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/3102096/195853582-f3868ef2-5538-4d53-859b-18fcdc7546e5.png)
 
@@ -54,6 +54,10 @@ npm run storybook
 
 [sb-badge]: https://img.shields.io/badge/view%20%40latest-storybook-ff4785
 
-[gh-license-link]: ./CONTRIBUTING.md
+[pr-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
+
+[pr-link]: ./CONTRIBUTING.md
+
+[gh-license-link]: ./LICENSE
 
 [gh-license-badge]: https://img.shields.io/github/license/dedevillela/ignite-lab-design-system
