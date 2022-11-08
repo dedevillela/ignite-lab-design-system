@@ -1,0 +1,2 @@
+import{B as t}from"./Button.92082250.js";import"./index.module.d533d8ab.js";import"./index.5136f498.js";import"./iframe.676c2f9b.js";import"./clsx.m.256e9345.js";import"./jsx-runtime.47fd301d.js";const p={title:"Components/Button",component:t,args:{children:"Entrar na Plataforma"},argTypes:{}},s={},i=["Default"];export{s as Default,i as __namedExportsOrder,p as default};
+//# sourceMappingURL=Button.stories.bf55414f.js.map
